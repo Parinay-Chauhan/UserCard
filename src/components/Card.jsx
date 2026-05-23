@@ -20,7 +20,7 @@ const Card = (props) => {
             <div className="bottom">
                 <div>
                     <h3>{props.pay}</h3>
-                     <p>{props.location}</p>
+                    <p>{props.location}</p>
                 </div>
                 <button>Apply Now</button>
             </div>
